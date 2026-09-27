@@ -50,7 +50,7 @@ function renderStage(stage) {
     scene.classList.add("love-stage");
     eyebrow.textContent = "Uma mensagem do coração ";
     question.innerHTML = 'Leia com bastante <span>carinho..</span>';
-    intro.textContent = "Eu te amo muito, quero que você saiba que você é a pessoa mais importante da minah vida, e quero passar minha vida inteirinha com você, agora namorados e depois noivados e casamentos, vou te honrar todos os dias, com amor do seu Dedézinho.";
+    intro.textContent = "Eu te amo muito, quero que você saiba que você é a pessoa mais importante do meu mundo, e quero passar minha vida inteirinha com você, agora como namorados e depois noivados e casamentos, vou te honrar todos os dias, com amor do seu Dedézinho.";
     actions.innerHTML = '<button class="yes continue" id="continue" type="button"><span aria-hidden="true">✦</span> Continuar</button>';
     hint.textContent = "Com todo o meu carinho ✧";
     return;
